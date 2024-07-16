@@ -1,7 +1,7 @@
 # Clock Application
 This Clock Application is a web-based tool created using HTML, CSS, and JavaScript to provide users with an accurate display of the current time. It offers a straightforward and visually appealing way to keep track of time.
-# Demo
-https://maham1033.github.io/Real-Time-Clock-Application/
+# [Demo](https://maham1033.github.io/Real-Time-Clock-Application/)
+
 
 # Features
 Real-Time Clock: The application displays the current time in hours, minutes, and seconds, updating in real-time.
